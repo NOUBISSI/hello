@@ -1,0 +1,7 @@
+---
+memory: 128M
+instances: 1
+applications:
+- name: noums
+  host: noums
+  timeout: 120
